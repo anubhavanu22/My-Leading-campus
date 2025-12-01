@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { navbarItems } from "../data/navbarData";
 import { ChevronDown, Menu } from "lucide-react";
 import MobileMenu from "./MobileMenu";
-import './navbar.css';
+import './Navbar.css';
 import SolutionMegaMenu from "./SolutionMegaMenu";
  export default function Navbar(){
     const [isSolutionsOpen,setIsSolutionOpen]=useState(false)
