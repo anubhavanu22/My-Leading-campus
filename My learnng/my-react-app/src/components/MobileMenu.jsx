@@ -1,6 +1,6 @@
 import { X, ChevronLeft } from 'lucide-react';
 import { iconMap } from '../data/navbarData';
-import './navbar.css';
+import './Navbar.css';
 import "./megaMenu.css"
 import { useState } from 'react';
 
